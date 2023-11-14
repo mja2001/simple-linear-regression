@@ -16,15 +16,18 @@ Clone the Repository:
 git clone https://github.com/your-username/simple-linear-regression.git
 Run the Code:
 cd simple-linear-regression
-python simple_linear_regression.py
+python simple_linear_regression.py.
 
 Results:
 The code will perform Simple Linear Regression on the 'Salary_Data.csv' dataset, create visualizations for both the training and test sets, 
 and show the relationship between years of experience and salaries.
-File Structure
+
+File Structure:
 simple_linear_regression.py: Python code for Simple Linear Regression.
 Salary_Data.csv: Dataset containing years of experience and salaries.
-License
+
+License:
 This project is licensed under the MIT License.
-Note
+
+Note:
 This repository serves as a basic demonstration of Simple Linear Regression using Python. It can be expanded upon or used as a starting point for similar regression projects.
