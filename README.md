@@ -16,7 +16,7 @@ Clone the Repository:
 git clone https://github.com/your-username/simple-linear-regression.git
 Run the Code:
 cd simple-linear-regression
-python simple_linear_regression.py.
+python simple_linear_regression.py
 
 Results:
 The code will perform Simple Linear Regression on the 'Salary_Data.csv' dataset, create visualizations for both the training and test sets, 
